@@ -15,7 +15,7 @@
           imgURL="https://c1.wallpaperflare.com/preview/206/450/462/iceland-aurora-borealis-northern-lights-beautiful.jpg"
           header_txt="Iceland by ABC"
           second_header="Beautiful Scenery"
-          descriptions="Header Descriptions"
+          descriptions="Join us on a magical journey of nature"
         ></HeaderContent>
         <!-- 
           About Content 
