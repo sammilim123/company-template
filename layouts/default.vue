@@ -7,7 +7,7 @@
       :logoURL  (URL for Logo)
      -->
     <NaviWrapper
-      imgURL="/img/lead-white-logo.png"
+      imgURL="https://www.jdfulwiler.com/wp-content/uploads/2017/08/abc-company-test-logo.png"
       ></NaviWrapper>
 
     <div class='flex-1'>
